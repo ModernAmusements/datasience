@@ -1,0 +1,132 @@
+Mitarbeiter;Kunde;Projekt;Leistung;Beschreibung;"Zeit in Minuten (dezimal)";"Umsatz in EUR"
+"Shady Tawfik";"Aeneas Group";;Programmierung;AUEG-781;30,00;0
+"Shady Tawfik";"Alauda GmbH";"Wertschätzer 2021";Administratives;"Jour Fix";45,00;71,25
+"Shady Tawfik";"Alauda GmbH";"Wertschätzer 2021";Programmierung;AL-42;60,00;95,00
+"Shady Tawfik";"Alauda GmbH";"Wertschätzer 2021";Programmierung;"AL-42;AL-48;AL-47;";120,00;190,00
+"Shady Tawfik";"Alauda GmbH";"Wertschätzer 2021";Programmierung;AL-46;195,00;308,75
+"Shady Tawfik";"Alauda GmbH";"Wertschätzer 2021";Programmierung;AL-47;60,00;95,00
+"Shady Tawfik";"Alauda GmbH";"Wertschätzer 2021";Programmierung;AL-48;120,00;190,00
+"Shady Tawfik";"Alauda GmbH";"Wertschätzer 2021";Programmierung;AL-49;120,00;190,00
+"Shady Tawfik";"Alauda GmbH";"Wertschätzer 2021";Programmierung;AL-50;120,00;190,00
+"Shady Tawfik";"Alauda GmbH";"Wertschätzer 2021";Programmierung;"AL-50;AL-52";90,00;142,50
+"Shady Tawfik";"Alauda GmbH";"Wertschätzer 2021";Programmierung;AL-51;30,00;47,50
+"Shady Tawfik";"Alauda GmbH";"Wertschätzer 2021";Programmierung;AL-52;90,00;142,50
+"Shady Tawfik";"Alauda GmbH";"Wertschätzer 2021";Programmierung;AL-54;210,00;332,50
+"Shady Tawfik";"Alauda GmbH";"Wertschätzer 2021";Programmierung;AL-55;135,00;213,75
+"Shady Tawfik";"AÜG Netzwerk";"Webseite 2.0 - akut-hr.de";Administratives;"Sketch Datei Blog -> Jour Fix mit AUEG";30,00;47,50
+"Shady Tawfik";"AÜG Netzwerk";"Webseite 2.0 - akut-hr.de";Programmierung;AUEG-763;120,00;190,00
+"Shady Tawfik";"AÜG Netzwerk";"Webseite 2.0 - akut-hr.de";Programmierung;AUEG-776;90,00;142,50
+"Shady Tawfik";"AÜG Netzwerk";"Webseite 2.0 - akut-hr.de";Programmierung;AUEG-809;30,00;47,50
+"Shady Tawfik";"AÜG Netzwerk";"Webseite 2.0 - aueg-care.de";Programmierung;AUEG-751;30,00;47,50
+"Shady Tawfik";"AÜG Netzwerk";"Webseite 2.0 / Basis";Administratives;"AUEG Team Weekly";120,00;190,00
+"Shady Tawfik";"AÜG Netzwerk";"Webseite 2.0 / Basis";Administratives;"AUEG-749 Planung der Anbindung aller Clienten an das CMS System";30,00;47,50
+"Shady Tawfik";"AÜG Netzwerk";"Webseite 2.0 / Basis";Administratives;"AUEG-763 Planning mit Nils CMS Module";30,00;47,50
+"Shady Tawfik";"AÜG Netzwerk";"Webseite 2.0 / Basis";Administratives;"AUEG-800 Zeitliche Einschätzung gewünschter neuer Module von AUEG für CarebyCall";30,00;47,50
+"Shady Tawfik";"AÜG Netzwerk";"Webseite 2.0 / Basis";Administratives;AUEG-850;60,00;95,00
+"Shady Tawfik";"AÜG Netzwerk";"Webseite 2.0 / Basis";Administratives;"Check aller Töchter auf preprod";45,00;71,25
+"Shady Tawfik";"AÜG Netzwerk";"Webseite 2.0 / Basis";Administratives;"Icon Set für AUEG call mit Anduena B.";75,00;118,75
+"Shady Tawfik";"AÜG Netzwerk";"Webseite 2.0 / Basis";Administratives;"Im Nachgang an das QS Meeting ein Maintenance Whitelabel Ticket verfasst";15,00;23,75
+"Shady Tawfik";"AÜG Netzwerk";"Webseite 2.0 / Basis";Administratives;"Jira Planning Anbindung von Sileos Gruppe";15,00;23,75
+"Shady Tawfik";"AÜG Netzwerk";"Webseite 2.0 / Basis";Administratives;"Jira und Trello Planning";300,00;475,00
+"Shady Tawfik";"AÜG Netzwerk";"Webseite 2.0 / Basis";Administratives;"Jour Fix mit Anika ver. Themen";60,00;95,00
+"Shady Tawfik";"AÜG Netzwerk";"Webseite 2.0 / Basis";Administratives;"Jour Fix mit Nils: Themen CMS Module anbinden";30,00;47,50
+"Shady Tawfik";"AÜG Netzwerk";"Webseite 2.0 / Basis";Administratives;"Jour Fix mit Tim AUEG-798";15,00;23,75
+"Shady Tawfik";"AÜG Netzwerk";"Webseite 2.0 / Basis";Administratives;"Jour Fix Update mit Tim für Mission Web";30,00;47,50
+"Shady Tawfik";"AÜG Netzwerk";"Webseite 2.0 / Basis";Administratives;"Pre Mission Web Meeting mit Boris";60,00;95,00
+"Shady Tawfik";"AÜG Netzwerk";"Webseite 2.0 / Basis";Administratives;"Release Plannung der Website Tritec Pro und der CMS anbindung von Akut-HR";60,00;95,00
+"Shady Tawfik";"AÜG Netzwerk";"Webseite 2.0 / Basis";Administratives;"Release Plannung der Website Tritec Pro und der CMS anbindung von Sileos und ToPeople";30,00;47,50
+"Shady Tawfik";"AÜG Netzwerk";"Webseite 2.0 / Basis";Administratives;"Sketch Cloud Vorbereitung für das Meeting: White Label Pflege";30,00;47,50
+"Shady Tawfik";"AÜG Netzwerk";"Webseite 2.0 / Basis";Administratives;"Trello Planning";10,00;15,83
+"Shady Tawfik";"AÜG Netzwerk";"Webseite 2.0 / Basis";Design;"Design Crashkurs für Anduena von AUEG";75,00;118,75
+"Shady Tawfik";"AÜG Netzwerk";"Webseite 2.0 / Basis";Programmierung;"Added sass-migrator to dev to batlle (7 repetitive deprecation warnings omitted.)";30,00;47,50
+"Shady Tawfik";"AÜG Netzwerk";"Webseite 2.0 / Basis";Programmierung;AUEG-795;30,00;47,50
+"Shady Tawfik";"AÜG Netzwerk";"Webseite 2.0 / Basis";Programmierung;AUEG-796;120,00;190,00
+"Shady Tawfik";"AÜG Netzwerk";"Webseite 2.0 / Basis";Programmierung;AUEG-806;135,00;213,75
+"Shady Tawfik";"AÜG Netzwerk";"Webseite 2.0 / Basis";Programmierung;AUEG-814;45,00;71,25
+"Shady Tawfik";"AÜG Netzwerk";"Webseite 2.0 / Basis";Programmierung;AUEG-836;105,00;166,25
+"Shady Tawfik";"AÜG Netzwerk";"Webseite 2.0 / Basis";Programmierung;"Whitelabel Pflege und Orga";60,00;95,00
+"Shady Tawfik";"AÜG Netzwerk";"Webseite 2.0 / sileos-group.de";Administratives;"Prelease Planning";15,00;23,75
+"Shady Tawfik";"AÜG Netzwerk";"Webseite 2.0 / sileos-group.de";Programmierung;AUEG-811;105,00;166,25
+"Shady Tawfik";"AÜG Netzwerk";"Webseite 2.0 / sileos-group.de";Programmierung;AUEG-815;60,00;95,00
+"Shady Tawfik";"AÜG Netzwerk";"Webseite 2.0 / sileos-group.de";Programmierung;AUEG-816;165,00;261,25
+"Shady Tawfik";"AÜG Netzwerk";"Webseite 2.0 / sileos-group.de";Programmierung;AUEG-817;60,00;95,00
+"Shady Tawfik";"AÜG Netzwerk";"Webseite 2.0 / sileos-group.de";Programmierung;AUEG-818;90,00;142,50
+"Shady Tawfik";"AÜG Netzwerk";"Webseite 2.0 / topeople.de (Update)";Administratives;"CMS HANDOFF";15,00;23,75
+"Shady Tawfik";"AÜG Netzwerk";"Webseite 2.0 / topeople.de (Update)";Administratives;"Prelease Planning";15,00;23,75
+"Shady Tawfik";"AÜG Netzwerk";"Webseite 2.0 / topeople.de (Update)";Programmierung;AUEG-835;150,00;237,50
+"Shady Tawfik";"AÜG Netzwerk";"Webseite 2.0 / topeople.de (Update)";Programmierung;"AUEG-835;AUEG-873";120,00;190,00
+"Shady Tawfik";"AÜG Netzwerk";"Webseite 2.0 / topeople.de (Update)";Programmierung;AUEG-836;120,00;190,00
+"Shady Tawfik";"AÜG Netzwerk";"Website 1.0 / activenow-jobs.de";Administratives;"Dev Env";60,00;0
+"Shady Tawfik";"AÜG Netzwerk";"Website 1.0 / activenow-jobs.de";Programmierung;AUEG-798;60,00;95,00
+"Shady Tawfik";"AÜG Netzwerk";"Website 1.0 / activenow-jobs.de";Programmierung;Support;90,00;142,50
+"Shady Tawfik";"AÜG Netzwerk";"Website 2.0 / aeneas-group.de";Administratives;"Aeneas Mitarbeiter Bug";30,00;0
+"Shady Tawfik";"AÜG Netzwerk";"Website 2.0 / jobmeetslife.de";Programmierung;AUEG-754;60,00;95,00
+"Shady Tawfik";"AÜG Netzwerk";"Website 2.0 / tritec-hr.de";Administratives;AUEG-813;60,00;95,00
+"Shady Tawfik";"AÜG Netzwerk";"Website 2.0 / tritec-hr.de";Administratives;AUEG-819;60,00;95,00
+"Shady Tawfik";"AÜG Netzwerk";"Website 2.0 / tritec-hr.de";Administratives;AUEG-831;90,00;142,50
+"Shady Tawfik";"AÜG Netzwerk";"Website 2.0 / tritec-hr.de";Administratives;"BMS Fonts etc mit Nils B";15,00;23,75
+"Shady Tawfik";"AÜG Netzwerk";"Website 2.0 / tritec-hr.de";Administratives;"BMS neue Wünsche Jour Fix mit Nils";25,00;39,58
+"Shady Tawfik";"AÜG Netzwerk";"Website 2.0 / tritec-hr.de";Administratives;"BMS Release Planning für DO";30,00;47,50
+"Shady Tawfik";"AÜG Netzwerk";"Website 2.0 / tritec-hr.de";Administratives;"BMS Übergabe und Briefing an Martin G";15,00;23,75
+"Shady Tawfik";"AÜG Netzwerk";"Website 2.0 / tritec-hr.de";Administratives;"Call mit Jakob R.";30,00;47,50
+"Shady Tawfik";"AÜG Netzwerk";"Website 2.0 / tritec-hr.de";Administratives;"Follow Up mit Kim W. Tritec-Hr und das BMS";45,00;71,25
+"Shady Tawfik";"AÜG Netzwerk";"Website 2.0 / tritec-hr.de";Administratives;"Gemeinsame QS der Webseite TriTec HR mit TriTec";60,00;95,00
+"Shady Tawfik";"AÜG Netzwerk";"Website 2.0 / tritec-hr.de";Administratives;"Hotfix Korrespondenz mit AUEG";15,00;23,75
+"Shady Tawfik";"AÜG Netzwerk";"Website 2.0 / tritec-hr.de";Administratives;"Jour Fix + Finales QS";90,00;142,50
+"Shady Tawfik";"AÜG Netzwerk";"Website 2.0 / tritec-hr.de";Administratives;"Jour Fix Kim QS2.0";90,00;142,50
+"Shady Tawfik";"AÜG Netzwerk";"Website 2.0 / tritec-hr.de";Administratives;"Jour Fix mit Bianca -> Thema: Sprungmarke Bug";30,00;47,50
+"Shady Tawfik";"AÜG Netzwerk";"Website 2.0 / tritec-hr.de";Administratives;"Jour Fix mit Bianca AUEG";15,00;23,75
+"Shady Tawfik";"AÜG Netzwerk";"Website 2.0 / tritec-hr.de";Administratives;"Jour Fix mit Bianca P.";30,00;47,50
+"Shady Tawfik";"AÜG Netzwerk";"Website 2.0 / tritec-hr.de";Administratives;"Jour Fix mit Bianca und Jacob";45,00;71,25
+"Shady Tawfik";"AÜG Netzwerk";"Website 2.0 / tritec-hr.de";Administratives;"Jour Fix mit Frau Besselmann: Email Bug";15,00;23,75
+"Shady Tawfik";"AÜG Netzwerk";"Website 2.0 / tritec-hr.de";Administratives;"Jour Fix mit Jakob";15,00;23,75
+"Shady Tawfik";"AÜG Netzwerk";"Website 2.0 / tritec-hr.de";Administratives;"Jour Fix mit Kim B. Thema Tritec BMS anpassungen";30,00;47,50
+"Shady Tawfik";"AÜG Netzwerk";"Website 2.0 / tritec-hr.de";Administratives;"Jour Fix mit Kim und Bianca";120,00;190,00
+"Shady Tawfik";"AÜG Netzwerk";"Website 2.0 / tritec-hr.de";Administratives;"Jour Fix mit Nils B. Thema BMS Umsetzbarkeit und Einschätzung";75,00;118,75
+"Shady Tawfik";"AÜG Netzwerk";"Website 2.0 / tritec-hr.de";Administratives;"Jour Fix mit Nils B: Neue BMS anforderungen";15,00;23,75
+"Shady Tawfik";"AÜG Netzwerk";"Website 2.0 / tritec-hr.de";Administratives;"Jour Fix mit Tim";15,00;23,75
+"Shady Tawfik";"AÜG Netzwerk";"Website 2.0 / tritec-hr.de";Administratives;"Jour Fix QS2.0";60,00;95,00
+"Shady Tawfik";"AÜG Netzwerk";"Website 2.0 / tritec-hr.de";Administratives;"Prelease Planning";15,00;23,75
+"Shady Tawfik";"AÜG Netzwerk";"Website 2.0 / tritec-hr.de";Administratives;"Release Vorbereitung: Tritec Hr und Akut HR CMS";60,00;95,00
+"Shady Tawfik";"AÜG Netzwerk";"Website 2.0 / tritec-hr.de";Programmierung;"AUEG-696;802";60,00;95,00
+"Shady Tawfik";"AÜG Netzwerk";"Website 2.0 / tritec-hr.de";Programmierung;AUEG-748;60,00;95,00
+"Shady Tawfik";"AÜG Netzwerk";"Website 2.0 / tritec-hr.de";Programmierung;AUEG-763;60,00;95,00
+"Shady Tawfik";"AÜG Netzwerk";"Website 2.0 / tritec-hr.de";Programmierung;"AUEG-770;AUEG-686";120,00;190,00
+"Shady Tawfik";"AÜG Netzwerk";"Website 2.0 / tritec-hr.de";Programmierung;AUEG-771;240,00;380,00
+"Shady Tawfik";"AÜG Netzwerk";"Website 2.0 / tritec-hr.de";Programmierung;AUEG-773;90,00;142,50
+"Shady Tawfik";"AÜG Netzwerk";"Website 2.0 / tritec-hr.de";Programmierung;AUEG-774;30,00;47,50
+"Shady Tawfik";"AÜG Netzwerk";"Website 2.0 / tritec-hr.de";Programmierung;AUEG-779;120,00;190,00
+"Shady Tawfik";"AÜG Netzwerk";"Website 2.0 / tritec-hr.de";Programmierung;AUEG-801;420,00;665,00
+"Shady Tawfik";"AÜG Netzwerk";"Website 2.0 / tritec-hr.de";Programmierung;AUEG-802;120,00;190,00
+"Shady Tawfik";"AÜG Netzwerk";"Website 2.0 / tritec-hr.de";Programmierung;AUEG-810;30,00;47,50
+"Shady Tawfik";"AÜG Netzwerk";"Website 2.0 / tritec-hr.de";Programmierung;AUEG-813;105,00;166,25
+"Shady Tawfik";"AÜG Netzwerk";"Website 2.0 / tritec-hr.de";Programmierung;"AUEG-821;AUEG-824";30,00;47,50
+"Shady Tawfik";"AÜG Netzwerk";"Website 2.0 / tritec-hr.de";Programmierung;"AUEG-823;AUEG-825";60,00;95,00
+"Shady Tawfik";"AÜG Netzwerk";"Website 2.0 / tritec-hr.de";Programmierung;"BUG EMAIL DEBUG";30,00;47,50
+"Shady Tawfik";"AÜG Netzwerk";"Website 2.0 / tritec-hr.de";Programmierung;"Scroll Anchor Fix";30,00;47,50
+"Shady Tawfik";"Burger Söhne SA";"Best Practise App";Administratives;"Best-Practice App";60,00;0
+"Shady Tawfik";"Burger Söhne SA";"Best Practise App";Administratives;"Jour Fix Pre Meeting";30,00;0
+"Shady Tawfik";"Burger Söhne SA";"Best Practise App";Administratives;"Nachschätzung BA";45,00;0
+"Shady Tawfik";"Burger Söhne SA";"Best Practise App";Administratives;"Team Weekly";120,00;0
+"Shady Tawfik";"epunks GmbH";;Administratives;"AUEG Team Weekly";60,00;0
+"Shady Tawfik";"epunks GmbH";;Administratives;"AUEG WEEKLY ÜBERGABE";30,00;0
+"Shady Tawfik";"epunks GmbH";;Administratives;AUEG-763;15,00;0
+"Shady Tawfik";"epunks GmbH";;Administratives;"Board Meeting Vorbereitung";120,00;0
+"Shady Tawfik";"epunks GmbH";;Administratives;"Crashkurs Git mit Lennart";30,00;0
+"Shady Tawfik";"epunks GmbH";;Administratives;Devmania;15,00;0
+"Shady Tawfik";"epunks GmbH";;Administratives;"Einarbeitung von Marvin H. in das AUEG 2.0 Projekt";120,00;0
+"Shady Tawfik";"epunks GmbH";;Administratives;"Jira Clean UP";30,00;0
+"Shady Tawfik";"epunks GmbH";;Administratives;"Jira Planning";25,00;0
+"Shady Tawfik";"epunks GmbH";;Administratives;"Jour Fix AUEG CMS + Hotfixes";60,00;0
+"Shady Tawfik";"epunks GmbH";;Administratives;"Jour Fix mit Boris R.";30,00;0
+"Shady Tawfik";"epunks GmbH";;Administratives;"Kallenhard mit Alina";5,00;0
+"Shady Tawfik";"epunks GmbH";;Administratives;"Planning für nächste Woche";60,00;0
+"Shady Tawfik";"epunks GmbH";;Administratives;"Server HACK -> Schnelle Lösung und Schlachtplan";60,00;0
+"Shady Tawfik";"epunks GmbH";;Administratives;"Team Weekly";30,00;0
+"Shady Tawfik";"epunks GmbH";;Ausbildung;"Alina S. Kallenhart support";720,00;0
+"Shady Tawfik";"epunks GmbH";;Programmierung;"Alina S. Kallenhart support";195,00;0
+"Shady Tawfik";"epunks GmbH";;Programmierung;"Team Weekly 2.0";75,00;0
+"Shady Tawfik";"epunks GmbH";"Ausbildung | Projekte";Programmierung;"Docker Setup für lokale Entwicklung";180,00;0
+"Shady Tawfik";"epunks GmbH";"Support | Ausbildung & Praktikum";Administratives;"Alina S. Kallenhart support";75,00;0
+"Shady Tawfik";"TS-Aluminium-Profilsysteme GmbH & Co. KG";BeSt-FeSt;Programmierung;"#722 GUI Übersichten (Ansicht Schichtleitung)";165,00;261,25
+"Shady Tawfik";"TS-Aluminium-Profilsysteme GmbH & Co. KG";BeSt-FeSt;Programmierung;"Einarbeitung ins Projekt";105,00;0
